@@ -38,5 +38,12 @@ public class DataTypes {
         System.out.println("this is a test program");
         System.out.println("This is a java language");
         System.out.println("Trying to look the changes");
+
+
+
+
+        System.out.println("fddfgg");
+        System.out.println("fgbfbfdbdf");
+        System.out.println("bfghrthrtt");
     }
 }
